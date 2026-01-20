@@ -1,0 +1,7 @@
+.git
+.vscode
+.gitignore
+Dockerfile
+node_modules
+npm-debug.log
+deploy.sh
